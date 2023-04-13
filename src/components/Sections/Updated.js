@@ -20,7 +20,7 @@ function Updated() {
               >
                 <i className="fa fa-envelope" aria-hidden="true"></i>
               </button>
-              <input className="form-inputbox" type="email" placeholder="Your email" />
+              <input className="form-inputbox" type="email" style={{ color: "#f058c9" }} placeholder="Your email" />
               <div className="mt-12">
                 <a
                   className="get-started text-white form-btn font-bold rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:form-btn-600 text-sm shadow hover:shadow-lg ease-linear transition-all duration-150 btn-gradient"

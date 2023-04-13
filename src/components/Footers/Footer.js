@@ -17,10 +17,10 @@ export default function Footer() {
                       <div className="w-full lg:w-3/12 px-4">
 
                         <div>
-                          <h5 className="text-xl font-semibold pb-4 text-center">
+                          <h5 className="text-xl font-semibold pb-4 text-white text-center">
                             1000+
                           </h5>
-                          <h5 className="text-sm font-semibold pb-4 text-center">
+                          <h5 className="text-sm font-semibold pb-4 text-white text-center">
                             Happy client’s
                           </h5>
                         </div>
@@ -29,10 +29,10 @@ export default function Footer() {
                       <div className="w-full lg:w-3/12 px-4">
 
                         <div>
-                          <h5 className="text-xl font-semibold pb-4 text-center">
+                          <h5 className="text-xl font-semibold pb-4 text-white text-center">
                             156
                           </h5>
-                          <h5 className="text-sm font-semibold pb-4 text-center">
+                          <h5 className="text-sm font-semibold pb-4 text-white text-center">
                             Active projects
                           </h5>
                         </div>
@@ -41,10 +41,10 @@ export default function Footer() {
                       <div className="w-full lg:w-3/12 px-4">
 
                         <div >
-                          <h5 className="text-xl font-semibold pb-4 text-center">
+                          <h5 className="text-xl font-semibold pb-4 text-white text-center">
                             80+
                           </h5>
-                          <h5 className="text-sm font-semibold pb-4 text-center">
+                          <h5 className="text-sm font-semibold pb-4 text-white text-center">
                             Customers
                           </h5>
                         </div>
@@ -54,10 +54,10 @@ export default function Footer() {
                       <div className="w-full lg:w-3/12 px-4">
 
                         <div >
-                          <h5 className="text-xl font-semibold pb-4 text-center">
+                          <h5 className="text-xl font-semibold pb-4 text-white text-center">
                             1482
                           </h5>
-                          <h5 className="text-sm font-semibold pb-4 text-center">
+                          <h5 className="text-sm font-semibold pb-4 text-white text-center">
                             Finished projects
                           </h5>
                         </div>
@@ -106,7 +106,8 @@ export default function Footer() {
             y="0"
           >
             <polygon
-              className="buffer-svg fill-current"
+              // className="buffer-svg fill-current"
+              style={{ fill: "#e8b5ca" }}
               points="2560 0 2560 100 0 100"
             ></polygon>
           </svg>

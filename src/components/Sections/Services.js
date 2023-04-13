@@ -21,7 +21,7 @@ function Services() {
 
                             <div className="w-full lg:w-4/12 px-4">
 
-                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
+                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150 card-ht">
                                     <img
                                         alt="..."
                                         className="align-middle border-none max-w-120-px h-auto rounded-lg"
@@ -46,7 +46,7 @@ function Services() {
 
                             <div className="w-full lg:w-4/12 px-4">
 
-                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
+                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150 card-ht">
                                     <img
                                         alt="..."
                                         className="align-middle border-none max-w-120-px h-auto rounded-lg"
@@ -71,7 +71,7 @@ function Services() {
 
                             <div className="w-full lg:w-4/12 px-4">
 
-                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
+                                <div className="items-center p-5 hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150 card-ht">
                                     <img
                                         alt="..."
                                         className="align-middle border-none max-w-120-px h-auto rounded-lg"
